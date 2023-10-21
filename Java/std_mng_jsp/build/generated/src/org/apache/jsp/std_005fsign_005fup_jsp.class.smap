@@ -1,0 +1,12 @@
+SMAP
+std_005fsign_005fup_jsp.java
+JSP
+*S JSP
+*F
++ 0 std_sign_up.jsp
+std_sign_up.jsp
+*L
+5,4:45
+8,11:48
+18,49:59
+*E
